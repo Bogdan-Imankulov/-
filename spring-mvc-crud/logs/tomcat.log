@@ -1,0 +1,110 @@
+Using CATALINA_BASE:   "C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6"
+Using CATALINA_HOME:   "C:\apache-tomcat-8.5.81"
+Using CATALINA_TMPDIR: "C:\apache-tomcat-8.5.81\temp"
+Using JRE_HOME:        "C:\Skillbox\Java"
+Using CLASSPATH:       "C:\apache-tomcat-8.5.81\bin\bootstrap.jar;C:\apache-tomcat-8.5.81\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Aug-2022 17:00:26.508 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.81
+04-Aug-2022 17:00:26.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 8 2022 21:30:15 UTC
+04-Aug-2022 17:00:26.514 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.81.0
+04-Aug-2022 17:00:26.515 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+04-Aug-2022 17:00:26.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+04-Aug-2022 17:00:26.516 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+04-Aug-2022 17:00:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Skillbox\Java
+04-Aug-2022 17:00:26.517 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            16.0.2+7-67
+04-Aug-2022 17:00:26.518 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+04-Aug-2022 17:00:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6
+04-Aug-2022 17:00:26.519 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\apache-tomcat-8.5.81
+04-Aug-2022 17:00:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+04-Aug-2022 17:00:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+04-Aug-2022 17:00:26.522 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+04-Aug-2022 17:00:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+04-Aug-2022 17:00:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Aug-2022 17:00:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6\conf\logging.properties
+04-Aug-2022 17:00:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-Aug-2022 17:00:26.523 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote=
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=1099
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6\jmxremote.password
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6\jmxremote.access
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+04-Aug-2022 17:00:26.524 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-Aug-2022 17:00:26.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+04-Aug-2022 17:00:26.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6
+04-Aug-2022 17:00:26.525 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\apache-tomcat-8.5.81
+04-Aug-2022 17:00:26.526 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-8.5.81\temp
+04-Aug-2022 17:00:26.526 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Skillbox\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Python310\Scripts\;C:\apache-tomcat-8.5.81\bin;C:\Python310\;C:\Program Files\Xmapp\php\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\NodeJS\;C:\ProgramData\chocolatey\bin;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\xampp\php;C:\Users\bagai\AppData\Local\Microsoft\WindowsApps;C:\Users\bagai\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\bagai\AppData\Roaming\npm;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Windows\System32;C:\Users\bagai\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\WebStorm 2022.1.1\bin;;C:\Program Files\JetBrains\PyCharm 2022.1.2\bin;;C:\Program Files\JetBrains\PhpStorm 2022.1.2\bin;;;.]
+04-Aug-2022 17:00:26.635 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+04-Aug-2022 17:00:26.680 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1499 ms
+04-Aug-2022 17:00:26.845 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+04-Aug-2022 17:00:26.847 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.81]
+04-Aug-2022 17:00:26.888 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+04-Aug-2022 17:00:26.991 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 311 ms
+Connected to server
+04-Aug-2022 17:00:31.260 INFO [RMI TCP Connection(2)-127.0.0.1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+17:00:31,500 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]
+17:00:31,502 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [file:/C:/apache-tomcat-8.5.81/webapps/spring_mvc_crud_war/WEB-INF/classes/logback.xml]
+17:00:31,654 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set
+17:00:31,656 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.FileAppender]
+17:00:31,678 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [FILE]
+17:00:31,702 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+17:00:31,791 |-INFO in ch.qos.logback.core.FileAppender[FILE] - File property is set to [logs/output.log]
+17:00:31,807 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]
+17:00:31,810 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]
+17:00:31,811 |-ERROR in ch.qos.logback.core.joran.spi.Interpreter@11:17 - no applicable action for [append], current ElementPath  is [[configuration][appender][append]]
+17:00:31,812 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property
+17:00:31,820 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to INFO
+17:00:31,820 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]
+17:00:31,821 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [FILE] to Logger[ROOT]
+17:00:31,821 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.
+17:00:31,822 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@1f27989d - Registering current configuration as safe fallback point
+
+17:00:32 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcher'
+17:00:34 [MLog-Init-Reporter] INFO  com.mchange.v2.log.MLog - MLog clients using slf4j logging.
+17:00:35 [RMI TCP Connection(2)-127.0.0.1] INFO  com.mchange.v2.c3p0.C3P0Registry - Initializing c3p0-0.9.5.5 [built 11-December-2019 22:18:33 -0800; debug? true; trace: 10]
+17:00:35 [RMI TCP Connection(2)-127.0.0.1] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.8.Final
+17:00:36 [RMI TCP Connection(2)-127.0.0.1] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+17:00:36 [RMI TCP Connection(2)-127.0.0.1] INFO  c.m.v.c.i.AbstractPoolBackedDataSource - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, contextClassLoaderSource -> caller, dataSourceName -> 1hge162aqszypf51tnxo3b|3fbc5337, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.cj.jdbc.Driver, extensions -> {}, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, forceSynchronousCheckins -> false, forceUseNamedDriverClass -> false, identityToken -> 1hge162aqszypf51tnxo3b|3fbc5337, idleConnectionTestPeriod -> 0, initialPoolSize -> 3, jdbcUrl -> jdbc:mysql://localhost:3306/web_customer_tracker?useSSL=false&serverTimezone=UTC, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 30000, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 20, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 5, numHelperThreads -> 3, preferredTestQuery -> null, privilegeSpawnedThreads -> false, properties -> {password=******, user=******}, propertyCycle -> 0, statementCacheNumDeferredCloseThreads -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, userOverrides -> {}, usesTraditionalReflectiveProxies -> false ]
+17:00:36 [RMI TCP Connection(2)-127.0.0.1] WARN  c.m.v.r.BasicResourcePool - Bad pool size config, start 3 < min 5. Using 5 as start.
+04-Aug-2022 17:00:36.920 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Установка веб приложения в папку [C:\apache-tomcat-8.5.81\webapps\manager]
+04-Aug-2022 17:00:37.098 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-8.5.81\webapps\manager] has finished in [175] ms
+17:00:37 [RMI TCP Connection(2)-127.0.0.1] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:00:38 [RMI TCP Connection(2)-127.0.0.1] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17:00:38 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 6463 ms
+Using CATALINA_BASE:   "C:\Users\bagai\AppData\Local\JetBrains\IntelliJIdea2022.1\tomcat\738b63d7-fc01-48ab-bc0c-92666f010fd6"
+Using CATALINA_HOME:   "C:\apache-tomcat-8.5.81"
+Using CATALINA_TMPDIR: "C:\apache-tomcat-8.5.81\temp"
+Using JRE_HOME:        "C:\Skillbox\Java"
+Using CLASSPATH:       "C:\apache-tomcat-8.5.81\bin\bootstrap.jar;C:\apache-tomcat-8.5.81\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""
+NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.io=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.base/java.util.concurrent=ALL-UNNAMED --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+04-Aug-2022 17:09:37.639 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+04-Aug-2022 17:09:37.702 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+04-Aug-2022 17:09:37.774 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+04-Aug-2022 17:09:38.672 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [spring_mvc_crud_war] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+04-Aug-2022 17:09:38.679 WARNING [localhost-startStop-2] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [spring_mvc_crud_war] appears to have started a thread named [Resource Destroyer in BasicResourcePool.close()] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@16.0.2/java.lang.String.endsWith(String.java:1515)
+ org.apache.catalina.webresources.Cache.noCache(Cache.java:222)
+ org.apache.catalina.webresources.Cache.getResource(Cache.java:61)
+ org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:215)
+ org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:224)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1173)
+ java.base@16.0.2/java.lang.Class.getResourceAsStream(Class.java:2787)
+ com.mysql.cj.protocol.ExportControlled.<clinit>(ExportControlled.java:124)
+ com.mysql.cj.protocol.a.NativeProtocol.quit(NativeProtocol.java:1320)
+ com.mysql.cj.NativeSession.quit(NativeSession.java:149)
+ com.mysql.cj.jdbc.ConnectionImpl.realClose(ConnectionImpl.java:1721)
+ com.mysql.cj.jdbc.ConnectionImpl.close(ConnectionImpl.java:713)
+ com.mchange.v2.c3p0.impl.NewPooledConnection.close(NewPooledConnection.java:642)
+ com.mchange.v2.c3p0.impl.NewPooledConnection.closeMaybeCheckedOut(NewPooledConnection.java:255)
+ com.mchange.v2.c3p0.impl.C3P0PooledConnectionPool$1PooledConnectionResourcePoolManager.destroyResource(C3P0PooledConnectionPool.java:622)
+ com.mchange.v2.resourcepool.BasicResourcePool$1DestroyResourceTask.run(BasicResourcePool.java:1114)
+ com.mchange.v2.resourcepool.BasicResourcePool.destroyResource(BasicResourcePool.java:1139)
+ com.mchange.v2.resourcepool.BasicResourcePool.destroyResource(BasicResourcePool.java:1100)
+ com.mchange.v2.resourcepool.BasicResourcePool.access$100(BasicResourcePool.java:44)
+ com.mchange.v2.resourcepool.BasicResourcePool$5.run(BasicResourcePool.java:1354)
+04-Aug-2022 17:09:38.731 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+04-Aug-2022 17:09:38.766 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+Disconnected from server
